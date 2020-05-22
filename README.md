@@ -11,8 +11,8 @@ The features of the App will be :
  
 Newsy is an app that works on web, iOS, Android, Mac, and Windows. 
 
-_ It is built in React and one shared code base by using two tools:
+*It is built in React and one shared code base by using two tools:*
 
-_ The first is Ionic, a UI toolkit for building performant, high-quality web, mobile and desktop apps.
-_ And the second is Firebase, a serverless framework that will handle our server-side infrastructure and deployments.
+*The first is Ionic, a UI toolkit for building performant, high-quality web, mobile and desktop apps.*
+*And the second is Firebase, a serverless framework that will handle our server-side infrastructure and deployments.*
 
